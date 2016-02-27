@@ -1,2 +1,2 @@
-# nodeschool-sinfo23-workshopper-learnyounode
-NodeSchool Workshop Self-Guided Node.JS Intro @ SINFO23
+# Nodeschool SINFO23 Workshopper LearnYouNode
+
