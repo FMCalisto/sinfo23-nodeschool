@@ -1,2 +1,2 @@
-# Nodeschool SINFO23 Workshopper LearnYouNode
+# SINFO23 Nodeschool Workshopper LearnYouNode
 
