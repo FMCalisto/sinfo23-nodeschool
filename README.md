@@ -1,5 +1,7 @@
 # SINFO23 NodeSchool LearnYouNode Workshop
 
+![alt tag](assets/NodeSchool.png "CodeSchool")
+
 NodeSchool is a collection of workshops to help you learn JavaScript, through the code production and resolution of proposed challenges! 
 
 It is also a global community meet-ups where mentors and students work together in courses and share their knowledge.
