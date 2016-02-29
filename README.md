@@ -9,3 +9,7 @@ It is also a global community meet-ups where mentors and students work together 
 [require('lx')](http://www.meetup.com/require-lx/events/228411184/)
 
 [SINFO23](https://www.sinfo.org/events/23-sinfo-conf/sessions/nodeschool)
+
+## Authors
+
+[João Matos](http://web.tecnico.ulisboa.pt/joao.r.matos/) ([AFAIK](https://github.com/afaik))
