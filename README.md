@@ -12,4 +12,4 @@ It is also a global community meet-ups where mentors and students work together 
 
 ## Authors
 
-[João Matos](http://web.tecnico.ulisboa.pt/joao.r.matos/) ([AFAIK](https://github.com/afaik))
+[João Matos](http://web.tecnico.ulisboa.pt/joao.r.matos/) ([joaormatos](https://github.com/joaormatos))
